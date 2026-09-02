@@ -37,6 +37,10 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="mongodb logo"  />
   <img width="20" />
+  <img src="https://skillicons.dev/icons?i=docker" height="48" alt="docker logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="postgres logo"  />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=ts" height="48" alt="typescript logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="48" alt="tailwindcss logo"  />
